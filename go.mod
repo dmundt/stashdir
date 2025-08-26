@@ -2,6 +2,9 @@ module github.com/dmundt/stashdir
 
 go 1.21
 
+retract v1.0.1 // Published accidentally.
+retract v0.2.0 // Published accidentally.
+
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/atotto/clipboard v0.1.4
